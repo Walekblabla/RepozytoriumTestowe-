@@ -90,4 +90,4 @@ while ((boss.hitpoints > 0) && (!((p1.hitpoints < 1) && (p2.hitpoints < 1))))
 
 var a = 2;
 var r = 2;
-
+var d = 2; 
