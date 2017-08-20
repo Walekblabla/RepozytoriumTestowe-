@@ -95,3 +95,4 @@ var a = 2;
 var r = 2;
 var d = 2; 
 >>>>>>> stara_funkcjonalnosc
+var y = 2;
