@@ -86,3 +86,8 @@ function jebnij() {
 while ((boss.hitpoints > 0) && (!((p1.hitpoints < 1) && (p2.hitpoints < 1))))
 
     jebnij();
+
+
+var a = 2;
+var r = 2;
+
